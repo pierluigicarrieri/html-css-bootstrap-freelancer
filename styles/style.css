@@ -1,0 +1,43 @@
+:root {
+    --bs-primary: #1ABC9B;
+    --bs-primary-rgb: 26, 188, 155;
+}
+
+.color_header_footer {
+    background-color: #2B3E50;
+}
+
+.color_last_section {
+    background-color: #39546D;
+}
+
+
+
+
+
+/* TO DELETE ONCE OVER, TAGS, CLASSES */
+
+section {
+    height: 400px;
+}
+
+header, footer {
+    height: 100px;
+}
+
+.row {
+    height: 100px;
+}
+
+.col {
+    height: 50px;
+}
+
+[class*="container"] {
+    height: 100%;
+}
+
+
+/* TO DELETE ONCE OVER, SNIPPETS */
+
+border border-danger
