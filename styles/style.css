@@ -3,12 +3,27 @@
     --bs-primary-rgb: 26, 188, 155;
 }
 
+
+a {
+    text-decoration: none;
+}
+
+ul {
+    list-style: none;
+    margin-top: auto;
+}
+
 .color_header_footer {
     background-color: #2B3E50;
 }
 
 .color_last_section {
     background-color: #39546D;
+}
+
+#nav_right {
+    font-size: 12px;
+    padding-top: 15px;
 }
 
 
