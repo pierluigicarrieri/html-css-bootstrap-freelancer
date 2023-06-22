@@ -3,7 +3,6 @@
     --bs-primary-rgb: 26, 188, 155;
 }
 
-
 a {
     text-decoration: none;
 }
@@ -21,11 +20,31 @@ ul {
     background-color: #39546D;
 }
 
+/* Next selector puts padding to counter 
+the default margin of ul in bootstrap, 
+or else coldn't align with left side */
+
 #nav_right {
     font-size: 12px;
-    padding-top: 15px;
+    padding-top: 15px; 
 }
 
+#jumbo_img {
+    width: 200px;
+}
+
+.star_container > i {
+    font-size: 25px;
+}
+
+#star_div {
+    margin-left: 1%;
+    margin-right: 1%;
+    width: 15%;
+    max-width: 100px;
+    height: 2px;
+    background-color: #FFFFFF;
+}
 
 
 
@@ -44,9 +63,6 @@ footer {
     height: 50px;
 }
 
-[class*="container"] {
-    height: 100%;
-}
 
 
 /* TO DELETE ONCE OVER, SNIPPETS */
