@@ -66,6 +66,15 @@ page */
     height: 130px;
 }
 
+/* Styling of last section icons */
+
+.icon_container {
+    width: 40px;
+    height: 40px;
+    margin: 0 0.3rem;
+    border: 1px solid #FFFFFF;
+    border-radius: 50%;
+}
 
 
 
