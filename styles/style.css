@@ -56,6 +56,16 @@ page */
     border-radius: 50px;
 }
 
+.custom_input {
+    border-top: none;
+    border-right: none;
+    border-left: none;
+}
+
+#floating_message {
+    height: 130px;
+}
+
 
 
 
